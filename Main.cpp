@@ -2,5 +2,8 @@
 
 int main()
 {
-	std::cout << "hello world" << std::endl;
+	std::cout << "hello world"
+		<<"ver.2"
+		<< std::endl;
+	
 }
